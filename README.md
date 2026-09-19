@@ -1,5 +1,5 @@
 # Chess Engine Bot 
-Third iteration of my chess engine bot. Some of the technical and naming conventions are inspired by Stockfish, but all code is written by me. This iteration is being developed more rigorously, with the intent to publish a polished version to lichess.org.
+Third iteration of my chess engine, this time written in C++20 instead of Java. This iteration is being developed more rigorously, with the intent to publish a polished version to lichess.org. Some of the naming and technical conventions are inspired by Stockfish, but all code is written by me. 
 
 ## Roadmap
 - [x] Bitboard-based position representation
